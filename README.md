@@ -6,7 +6,8 @@ This repository contains all files leading up to the Capstone project.
 
 The project is a feedback analyzer that produces an overall rating and workplace appropriateness score for the feedback text provided by the user through GPT 3.5.  
 
-To check the deployed app, go here:
+To check the deployed app, go here: https://feedbackanalysis-84qrtyvzvbqvy2xehhqbrc.streamlit.app/
+
 
 
 Realistic Test Cases
