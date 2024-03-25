@@ -1,0 +1,23 @@
+{
+    "classes": ["PRACTICE_AREA", "LANG", "LOCATION", "EXPERTISE"],
+    "annotations": [
+	["Our legal team specializing in labour law is currently managing a case in Chicago. We require comprehensive legal resources and expertise in employment contracts and labor disputes. Fluency in Spanish within the legal team is essential for effective communication with our diverse workforce. Please provide any relevant case studies or legal documentation related to labour law.\r", {
+                "entities": [[31, 41, "PRACTICE_AREA"], [74, 82, "LOCATION"], [141, 151, "PRACTICE_AREA"], [152, 161, "PRACTICE_AREA"], [166, 181, "PRACTICE_AREA"], [193, 200, "LANG"], [367, 377, "PRACTICE_AREA"]]
+            }
+        ], ["Engaged in a complex intellectual property case in New York, our legal team requires specialized expertise in patent law and trademark regulations. It is imperative that our legal team is multilingual, particularly fluent in Japanese, to communicate effectively with our international stakeholders. Please share any case studies or legal documentation related to intellectual property law and patents.\r", {
+                "entities": [[21, 42, "PRACTICE_AREA"], [51, 59, "LOCATION"], [110, 120, "PRACTICE_AREA"], [125, 147, "PRACTICE_AREA"], [225, 233, "LANG"]]
+            }
+        ], ["Our firm specializing in immigration law is currently handling a case in Miami. We require expert guidance in visa applications and immigration policies. Proficiency in Arabic is crucial as we need to communicate effectively with our Arabic-speaking clients. Please provide any relevant case studies or legal documents related to immigration law and visas.\r", {
+                "entities": [[25, 40, "PRACTICE_AREA"], [73, 79, "LOCATION"], [110, 127, "EXPERTISE"], [132, 153, "EXPERTISE"], [169, 175, "LANG"], [234, 249, "LANG"]]
+            }
+        ], ["Our legal team, focused on environmental law, is currently managing a case in Seattle. We require expert guidance in environmental regulations and compliance. Proficiency in German within the legal team is essential for effective communication with our German-speaking clients. Please provide any relevant case studies or legal documentation related to environmental law.\r", {
+                "entities": [[27, 44, "PRACTICE_AREA"], [78, 86, "LOCATION"], [117, 142, "EXPERTISE"], [147, 158, "EXPERTISE"], [174, 180, "LANG"], [253, 268, "LANG"], [353, 370, "PRACTICE_AREA"]]
+            }
+        ], ["Dealing with a sensitive family law case in Los Angeles, our firm seeks legal expertise in child custody and divorce proceedings. A multilingual legal team, particularly fluent in Chinese, is essential to serve our diverse client base effectively. Any case studies or legal documentation related to family law would be highly appreciated.\r", {
+                "entities": [[25, 35, "PRACTICE_AREA"], [44, 55, "LOCATION"], [91, 104, "EXPERTISE"], [109, 129, "EXPERTISE"], [180, 187, "LANG"], [299, 309, "PRACTICE_AREA"]]
+            }
+        ], ["Our legal team specializing in commercial law is currently managing a case in Atlanta. We require comprehensive legal resources and expertise in contract negotiations and business transactions. Fluency in French within the legal team is crucial for effective communication with our French-speaking partners. Please provide any relevant case studies or legal documentation related to commercial law and contract negotiations.\r", {
+                "entities": [[31, 45, "PRACTICE_AREA"], [78, 86, "LANG"], [145, 166, "EXPERTISE"], [171, 193, "EXPERTISE"], [205, 211, "LANG"], [282, 297, "LANG"]]
+            }
+        ]]
+}
